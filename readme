@@ -1,0 +1,11 @@
+Steps to run this project:-
+
+1.Install all node dependecies by using npm install command
+2.From the project directory server can be run by using npm run dev command
+3.For database backup .sql file is included in the DB_Backup folder.
+4.use command mysql -u root -p rss_feed < rss_feed.sql to restore database from file
+
+
+
+Postman collection api url:-
+https://www.getpostman.com/collections/d543a1cf9403e0ed2c17
